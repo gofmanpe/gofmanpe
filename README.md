@@ -1,8 +1,8 @@
 # Pavel Gofman
 Welcome! I can describe myself as a person deeply immersed in IT. I am the person who used MS-DOS on IBM PC 286. I do not want to emphasize my age in this statement, I just want to draw attention to the age of my experience. Then I was still a schoolboy. All my life I have been interested in and working with IT. Most of this experience was related to technical support, user support and system administration. A year and a half ago, I decided to switch my field of activity because I realized that I was enjoying mobile development on Swift and iOS. Here you can find my open access projects. Always ready for cooperation, communication and joint new projects!
 
-## Used technologies:
-[![My Skills](https://skillicons.dev/icons?i=apple,swift,firebase,ai,ps,github)](https://skillicons.dev)
+//## Used technologies:
+//[![My Skills](https://skillicons.dev/icons?i=apple,swift,firebase,ai,ps,github)](https://skillicons.dev)
 
 ## KEY SKILLS
 |Apple|Data Base|Design|Other|
@@ -10,20 +10,6 @@ Welcome! I can describe myself as a person deeply immersed in IT. I am the perso
 |XCode|CoreData|Figma|PHP|
 |Swift|Firebase|Adobe Illustrator|CSS|
 |UIKit|SQL|Adobe Photoshop|GitHub|
-
-UIKit
-MVC
-Core Data
-Firebase
-XCode
-App Store Connect GitHub
-Figma
-Adobe Illustrator 
-Adobe Photoshop 
-PHP
-CSS
-SQL
-
 
 <!--
 **gofmanpe/gofmanpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
