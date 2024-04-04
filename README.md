@@ -5,15 +5,9 @@ Welcome! I can describe myself as a person deeply immersed in IT. I am the perso
 [![My Skills](https://skillicons.dev/icons?i=apple,swift,firebase,ai,ps,mysql,html,css,php)](https://skillicons.dev)
 
 ## Languages:
-Engish - B2
-Ukrainian - fluent
-Russian - fluent
-German - A2
 
-## KEY SKILLS
-|||
 |-----|:---------:|
-|Engish|B2|
+|English|B2|
 |Ukrainian|fluent|
 |Russian|fluent|
 |German|A2|
