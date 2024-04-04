@@ -5,6 +5,9 @@ Welcome! I can describe myself as a person deeply immersed in IT. I am the perso
 [![My Skills](https://skillicons.dev/icons?i=apple,swift,firebase,ai,ps,github)](https://skillicons.dev)
 
 ## KEY SKILLS
+|Apple|Data Base|Design|Other|
+|-----|---------|-----|------|
+|Swift|SQL|Figma|__|
 Swift
 UIKit
 MVC
