@@ -4,13 +4,7 @@ Welcome! I can describe myself as a person deeply immersed in IT. I am the perso
 ## Used technologies:
 [![My Skills](https://skillicons.dev/icons?i=apple,swift,firebase,ai,ps,mysql,html,css,php)](https://skillicons.dev)
 
-## Languages:
 
-|-----|:---------:|
-|English|B2|
-|Ukrainian|fluent|
-|Russian|fluent|
-|German|A2|
 
 <!--
 **gofmanpe/gofmanpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
