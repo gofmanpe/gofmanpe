@@ -7,8 +7,10 @@ Welcome! I can describe myself as a person deeply immersed in IT. I am the perso
 ## KEY SKILLS
 |Apple|Data Base|Design|Other|
 |-----|---------|-----|------|
-|Swift|SQL|Figma|__|
-Swift
+|XCode|CoreData|Figma|PHP|
+|Swift|Firebase|Adobe Illustrator|CSS|
+|UIKit|SQL|Adobe Photoshop|GitHub|
+
 UIKit
 MVC
 Core Data
